@@ -1,7 +1,8 @@
 <mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="com.acn.training.project1.controller.View1">
     <Page id="page" title="{i18n>title}">
     <content>
-        <Label text="First name" width="100%" id="label0"/>
+        <Label text="Name" width="100%" id="label0"/>
+        <Label text="Street/No" width="100%" id="label0_1747711934476"/>
     </content>
     <footer>
         <Toolbar width="100%" id="toolbar1">
