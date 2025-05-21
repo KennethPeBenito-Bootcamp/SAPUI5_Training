@@ -13,7 +13,7 @@ sap.ui.define([
             oDelete.byId("input2").setValue("");
             oDelete.byId("input3").setValue("");
             oDelete.byId("input4").setValue("");
-            oDelete.byId("combocount").setValue("");
+            oDelete.byId("selectCountry").setValue("");
         }
     });
 });
